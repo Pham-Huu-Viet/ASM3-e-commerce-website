@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ASM3-e-commerce-website/static/css/main.b2c0e5d8.css",
+    "main.js": "/ASM3-e-commerce-website/static/js/main.41567476.js",
+    "static/js/453.55b2104b.chunk.js": "/ASM3-e-commerce-website/static/js/453.55b2104b.chunk.js",
+    "static/media/avatar.png": "/ASM3-e-commerce-website/static/media/avatar.9ffd0ce686e0185b45f9.png",
+    "static/media/banner1.jpg": "/ASM3-e-commerce-website/static/media/banner1.4a22881c941f7b645fa8.jpg",
+    "index.html": "/ASM3-e-commerce-website/index.html",
+    "main.b2c0e5d8.css.map": "/ASM3-e-commerce-website/static/css/main.b2c0e5d8.css.map",
+    "main.41567476.js.map": "/ASM3-e-commerce-website/static/js/main.41567476.js.map",
+    "453.55b2104b.chunk.js.map": "/ASM3-e-commerce-website/static/js/453.55b2104b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2c0e5d8.css",
+    "static/js/main.41567476.js"
+  ]
+}
